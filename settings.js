@@ -11,7 +11,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 /* ~~~~~~~~~ WEB API ~~~~~~~~~ */
-global.lol = '-' // https://api.lolhuman.xyz
+global.lol = '2178b53728655e5e97cdc3d0' // https://api.lolhuman.xyz
 global.xzn = '-' // https://xnz.wtf
 /* ~~~~~~~~~ SETTINGS OWNER ~~~~~~~~~ */
 global.numberowner = '-' // Owner Utama
